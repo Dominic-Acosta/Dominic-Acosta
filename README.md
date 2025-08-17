@@ -10,21 +10,21 @@ I also specialize in digital forensics, where I investigate and analyze digital 
 
 ## 🛠️ Tech Stack & Skills
 
-Programming: Python, C/C++, Java, JavaScript, TypeScript
-Web Development: React, Node.js, HTML/CSS, Tailwind
-Cybersecurity & Forensics: Digital forensics tools, secure coding practices, penetration testing
-Databases: MySQL, PostgreSQL, MongoDB
-Other: Git/GitHub, Linux, Docker
+Programming: Python, C/C++, Java, JavaScript, TypeScript  
+Web Development: React, Node.js, HTML/CSS, Tailwind  
+Cybersecurity & Forensics: Digital forensics tools, secure coding practices, penetration testing  
+Databases: MySQL, PostgreSQL, MongoDB  
+Other: Git/GitHub, Linux, Docker  
 
 ## 📌 Interests
 
-Secure Systems & Application Security
-Digital Forensics & Incident Response
-Full-Stack Development
-Cloud Security & DevSecOps
+Secure Systems & Application Security  
+Digital Forensics & Incident Response  
+Full-Stack Development  
+Cloud Security & DevSecOps  
 
 ## 🌱 Currently Learning
 
-Advanced Secure Systems Design
-Malware Analysis & Reverse Engineering
-Cloud Security Architectures
+Advanced Secure Systems Design  
+Malware Analysis & Reverse Engineering  
+Cloud Security Architectures  
