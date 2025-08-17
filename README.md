@@ -1,6 +1,6 @@
 ## Hi there, welcome to my digital playground!!👋
 
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlpZHN3dXJ3OXFvc3c1Z3h4Y3dlNnE3aXhtazZqYzB6M3V6dGtrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NlVv7LpinkCAcGaopP/giphy.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9oM3cwbmZzYzQ0MzJhZmx1dWZiZjZ4ZnQ2OGVpbTF2Mmw3dzViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ax7dUccHvnBhOkbyrf/giphy.gif)
 
 ## 🚀 About Me
 
