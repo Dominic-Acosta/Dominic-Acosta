@@ -19,7 +19,7 @@ SIEM Tools: Splunk, Azure Sentinel, Wazuh
 
 ## 📊 Track my stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/azumeir?theme=dark&font=Roboto&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dominic-Acosta?theme=dark&font=Roboto&ext=contest)
 
 ## 📌 Interests
 
