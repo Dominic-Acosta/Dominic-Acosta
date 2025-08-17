@@ -10,7 +10,17 @@ I also specialize in digital forensics, where I investigate and analyze digital 
 
 ## 🛠️ Tech Stack & Skills
 
-Languages: [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,go,)](https://skillicons.dev)  
+Languages: 
+<p align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>  
+</p>
+
 Frameworks & Web Development: React, Node.js, Spring Boot, REST API, Tailwind CSS, HTML/CSS, JSON  
 Databases: MySQL, PostgreSQL, MongoDB  
 Developer Tools & Platforms: Git/GitHub, Linux, Docker, Kubernetes, AWS, Postman, IntelliJ IDEA  
