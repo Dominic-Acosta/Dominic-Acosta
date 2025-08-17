@@ -87,15 +87,7 @@ I also specialize in digital forensics, where I investigate and analyze digital 
 
 ## 📫 Connect with Me  
 
-<p>
-  <a href="https://main.d1u3hnp64jn1r.amplifyapp.com/">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/Dominic-Acosta">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dominic-acosta-46096528b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+🌐 [Explore My Website](https://main.d1u3hnp64jn1r.amplifyapp.com)  
+👨‍💻 [Challenge Me on LeetCode](https://leetcode.com/Dominic-Acosta)  
+💼 [Let’s Connect on LinkedIn](https://www.linkedin.com/in/dominic-acosta-46096528b/)  
 
