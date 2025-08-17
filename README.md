@@ -10,11 +10,12 @@ I also specialize in digital forensics, where I investigate and analyze digital 
 
 ## 🛠️ Tech Stack & Skills
 
-Programming: Python, C/C++, Java, JavaScript, TypeScript  
-Web Development: React, Node.js, HTML/CSS, Tailwind  
-Cybersecurity & Forensics: Digital forensics tools, secure coding practices, penetration testing  
+Languages: Python, C/C++, Java, JavaScript/TypeScript, Go, SQL, NoSQL  
+Frameworks & Web Development: React, Node.js, Spring Boot, REST API, Tailwind CSS, HTML/CSS, JSON  
 Databases: MySQL, PostgreSQL, MongoDB  
-Other: Git/GitHub, Linux, Docker  
+Developer Tools & Platforms: Git/GitHub, Linux, Docker, Kubernetes, AWS, Postman, IntelliJ IDEA  
+Cybersecurity & Forensics: Wireshark, Burp Suite, Nessus, Metasploit, Kali Linux, Magnet AXIOM, Autopsy, Cellebrite  
+SIEM Tools: Splunk, Azure Sentinel, Wazuh  
 
 ## 📌 Interests
 
