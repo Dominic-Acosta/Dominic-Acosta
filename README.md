@@ -44,7 +44,7 @@ I also specialize in digital forensics, where I investigate and analyze digital 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/Dominic-Acosta/icons/refs/heads/main/icons/icons/aws.png?token=GHSAT0AAAAAADJL54RDXZHQUDPDVV3DUKEK2FCBI5A" alt="AWS" title="AWS" height="24"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
 </p>
