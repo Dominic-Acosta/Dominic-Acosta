@@ -1,4 +1,4 @@
-## Hi there welcome to my github👋
+## Hi there, welcome to my digital playground!!👋
 
 ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlpZHN3dXJ3OXFvc3c1Z3h4Y3dlNnE3aXhtazZqYzB6M3V6dGtrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NlVv7LpinkCAcGaopP/giphy.gif)
 
@@ -83,4 +83,19 @@ I also specialize in digital forensics, where I investigate and analyze digital 
 
 - Advanced Secure Systems Design  
 - Malware Analysis & Reverse Engineering  
-- Cloud Security Architectures  
+- Cloud Security Architectures
+
+## 📫 Connect with Me  
+
+<p>
+  <a href="https://main.d1u3hnp64jn1r.amplifyapp.com/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/Dominic-Acosta">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dominic-acosta-46096528b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
