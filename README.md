@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hi, I’m Dominic, a dedicated student majoring in Computer Science and Cybersecurity & Forensics, with a strong passion for designing and analyzing secure systems. I enjoy working across both frontend and backend development, creating applications that are efficient, scalable, and built with security in mind.
+Hi, I’m Dominic, a dedicated student majoring in Computer Science and Cybersecurity & Forensics, with a strong passion for designing and analyzing secure systems. I enjoy working across both frontend and backend development, creating applications that are efficient, scalable, and security-focused. On the backend, I specialize in server-side components, API development, and performance optimization, while ensuring seamless collaboration with frontend teams.
 
 I also specialize in digital forensics, where I investigate and analyze digital evidence to ensure data integrity and uncover valuable insights in the context of cybersecurity.
 
