@@ -10,7 +10,7 @@ I also specialize in digital forensics, where I investigate and analyze digital 
 
 ## 🛠️ Tech Stack & Skills
 
-Languages: Python, C/C++, Java, JavaScript/TypeScript, Go, SQL, NoSQL  
+Languages: [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,go,)](https://skillicons.dev)  
 Frameworks & Web Development: React, Node.js, Spring Boot, REST API, Tailwind CSS, HTML/CSS, JSON  
 Databases: MySQL, PostgreSQL, MongoDB  
 Developer Tools & Platforms: Git/GitHub, Linux, Docker, Kubernetes, AWS, Postman, IntelliJ IDEA  
