@@ -17,9 +17,9 @@ Developer Tools & Platforms: Git/GitHub, Linux, Docker, Kubernetes, AWS, Postman
 Cybersecurity & Forensics: Wireshark, Burp Suite, Nessus, Metasploit, Kali Linux, Magnet AXIOM, Autopsy, Cellebrite  
 SIEM Tools: Splunk, Azure Sentinel, Wazuh  
 
-## Track my stats
+## 📊 Track my stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/<azumeir>)
+![LeetCode Stats](https://leetcard.jacoblin.cool/azumeir?theme=dark&font=Roboto&ext=contest)
 
 ## 📌 Interests
 
