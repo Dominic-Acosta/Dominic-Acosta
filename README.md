@@ -19,13 +19,13 @@ SIEM Tools: Splunk, Azure Sentinel, Wazuh
 
 ## 📌 Interests
 
-Secure Systems & Application Security  
-Digital Forensics & Incident Response  
-Full-Stack Development  
-Cloud Security & DevSecOps  
+- Secure Systems & Application Security  
+- Digital Forensics & Incident Response  
+- Backend Development  
+- Cloud Security & DevSecOps  
 
 ## 🌱 Currently Learning
 
-Advanced Secure Systems Design  
-Malware Analysis & Reverse Engineering  
-Cloud Security Architectures  
+- Advanced Secure Systems Design  
+- Malware Analysis & Reverse Engineering  
+- Cloud Security Architectures  
